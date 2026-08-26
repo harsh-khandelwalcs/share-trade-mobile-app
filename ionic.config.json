@@ -1,0 +1,7 @@
+{
+  "name": "share-trading",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
